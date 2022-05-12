@@ -1,5 +1,5 @@
 # Android_Studio_fin_Q1
-package com.ehappy.exsqlite03;
+<!-- package com.ehappy.exsqlite03; -->
 
 import android.database.Cursor;
 import android.database.SQLException;
@@ -116,4 +116,4 @@ public class MainActivity extends AppCompatActivity {
            Toast.makeText(getApplicationContext(), "查無此筆資料!", Toast.LENGTH_SHORT).show();
        return cursor;
    }
-}
+<!-- } -->
